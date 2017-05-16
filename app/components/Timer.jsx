@@ -28,7 +28,6 @@ var Timer = React.createClass({
                     clearInterval(this.timer);
                     this.timer = undefined;
                     break;
-
             }
         }
     },
@@ -44,9 +43,6 @@ var Timer = React.createClass({
             this.setState({
                 count: newCount
             });
-
-
-
         }, 1000);
     },
 
