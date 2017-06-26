@@ -1,6 +1,6 @@
-## React Weather Application
+## React Timer Application
 
-A simple weather application developed using React
+A simple Timer application developed using React
 
 [Link](https://damp-sierra-94298.herokuapp.com/)
 
