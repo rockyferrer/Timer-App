@@ -3,7 +3,7 @@
 A simple Timer application developed using React.  
 This app was developed to become familiar with React, Webpack, Sass, and Karma tests.
 
-[Link](https://damp-sierra-94298.herokuapp.com/)
+[Link](https://timer-app-rocky.herokuapp.com/)
 
 #### Tools used:
 
